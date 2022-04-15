@@ -8,7 +8,7 @@ My name is **Ifeoma Sandra**, I am a Solidity Smart Contract Developer and a Bac
  - 🌱 I’m currently learning how to build smart contracts using solidity programming language
  - 👯 I’m looking to collaborate on all sort of interesting things: blockchain technology, web development, open-source, anything exciting about         technology 
  - 🤔 I’m open to a full-time role, being part of great things and providing innovative solutions through technology
- - 💬 Ask me about smart contracts, backend development and open-source 
+ - 💬 Ask me about: Smart contracts, Backend development and Open-source 
  - 📫 How to reach me: [@Sandie_iphy](https://twitter.com/Sandie_iphy)
  - 😄 Dev_Sandie😎
  - ⚡  Fun fact: I love music, the wonders of nature, beautiful things and places
